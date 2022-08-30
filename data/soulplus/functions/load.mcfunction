@@ -1,6 +1,6 @@
 scoreboard objectives add Souls dummy
 scoreboard objectives add DeathCount deathCount
-scoreboard objectives add AteSoulItem minecraft.used:minecraft.golden_apple
+scoreboard objectives add UsedSoulItem minecraft.used:minecraft.written_book
 
 function soulplus:initialize_scores
 
