@@ -5,8 +5,3 @@ team join TwoLives @a[scores={Souls=2}]
 team join OneLife @a[scores={Souls=1}]
 team join SoulLess @a[scores={Souls=..0}]
 
-# Put players who are soulless in spectator mode
-
-gamemode spectator @a[team=SoulLess]
-
-
