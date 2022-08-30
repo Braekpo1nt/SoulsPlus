@@ -1,0 +1,1 @@
+execute as @a if score @s DeathCount matches 1.. run function soulplus:on_death
